@@ -4,7 +4,7 @@ body{
 
 .content{ 
 	background-color: #b300b3;
-	margin: 40px 35%;
+	margin: 6% auto;
 	max-width: 350px;
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2) ;
 }
