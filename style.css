@@ -1,0 +1,16 @@
+.content{ 
+	margin: 40px 35%;
+	max-width: 350px;
+}
+
+.imgProfile{ 
+	height: 300px;
+	width: 350px ;
+}
+
+.icons{ 
+	text-align: center;
+}
+.icons a{ 
+	margin-right: 15px;
+}
