@@ -1,13 +1,27 @@
+body{ 
+	background-color: #24248f;
+}
+
 .content{ 
+	background-color: #b300b3;
 	margin: 40px 35%;
 	max-width: 350px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2) ;
 }
 
 .imgProfile{ 
 	height: 300px;
 	width: 350px ;
 }
-
+.content p{ 
+	margin-left: 15px ;
+}
+ .content .nome, .content p{ 
+ 	color: #00ff80;
+ }
+ .nome{ 
+ 	text-align: center;
+ }
 .icons{ 
 	text-align: center;
 }
